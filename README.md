@@ -18,3 +18,17 @@ For dev view launch
 mkdocs serve
 ```
 
+For publish this repository via GitHub you shall commit and push changes
+
+```bash
+git add .
+git commit -m "changes"
+git push
+```
+
+and then you can run following command
+
+```bash
+
+```
+
