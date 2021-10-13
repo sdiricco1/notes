@@ -29,6 +29,7 @@ git push
 and then you can run following command
 
 ```bash
+mkdocs build
 mkdocs gh-deploy --force
 ```
 
